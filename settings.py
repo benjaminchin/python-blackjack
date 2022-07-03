@@ -1,0 +1,15 @@
+FILENAME = 'cards.png'
+
+WIDTH = 1280
+HEIGHT = 720
+
+TITLE = 'BLACKJACK'
+ICON_PATH = 'icon.png'
+FPS = 30
+FONT = "arial"
+CARD_WIDTH = 72
+CARD_HEIGHT = 96
+
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+GREEN = (0,81,44)
